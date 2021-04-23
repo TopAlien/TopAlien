@@ -49,7 +49,7 @@
 
 <a href="https://github.com/TopAlien">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TopAlien&theme=tokyonight&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopAlien&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopAlien&theme=buefy&layout=compact&langs_count=10" />
 </a>
 
 <br/>
